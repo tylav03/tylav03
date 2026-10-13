@@ -1,5 +1,14 @@
-## Hi, I'm Tyler
-# I like to build cool stuff
+## Hi, I'm Tyler 👋
+I'm an engineer that enjoys building hardware, software, and anything in between. I'm also into large data projects using ML/AI to solve new and interesting problems.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-lavaway)](https://www.linkedin.com/in/tyler-lavaway)
+<!--![Static Badge](https://img.shields.io/badge/-white?logo=python)![Static Badge](https://img.shields.io/badge/-blue?logo=cplusplus)![Static Badge](https://img.shields.io/badge/-blue?logo=dotnet)![Static Badge](https://img.shields.io/badge/-white?logo=javascript)-->
+
+
+
+
+### 👨‍🏭 What I'm Building Now
+- An AI voice agent to take reservations for restaurants. Check out [dinner-reservagent](https://github.com/tylav03/dinner-reservagent)
 <!--
 **tylav03/tylav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
