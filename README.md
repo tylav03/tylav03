@@ -9,6 +9,7 @@ I'm an engineer that enjoys building hardware, software, and anything in between
 
 ### 👨‍🏭 What I'm Building Now
 - An AI voice agent to take reservations for restaurants. Check out [dinner-reservagent](https://github.com/tylav03/dinner-reservagent)
+- An app to track regular car maintenance and remind you about oil changes, transmission fluid, spark plugs, etc. Check out [car-maintenance-tracker](https://github.com/tylav03/car-maintenance-tracker)
 <!--
 **tylav03/tylav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
